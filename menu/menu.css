@@ -1,0 +1,106 @@
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  
+}
+li {
+  display: inline;
+}
+li {
+  float: left;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #333;
+
+  
+ 
+  
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding: 14px 30px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+body{
+	margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.fa {
+  padding: 4px;
+  font-size: 20px;
+  
+  text-align: center;
+  text-decoration: none;
+}
+.d-block-w-100{
+    
+	height: 100px;
+	width: 100px;
+	margin-left: 250px;
+	margin-right: 100px;
+	margin-top: 60px;
+
+}
+img{
+  width: 400px;
+  height: 500px;
+    margin: 10px;
+    border:4px solid black;
+    margin-left: 20px;
+    padding: 4px;
+    transition: all 1s;
+    box-shadow: 6px 6px 5px #000000;
+    display: inline;
+    padding: 20px;
+    margin-left: 20px;
+
+}
+h1{
+     font-family: 'Lobster', cursive;
+     font-size: 2rem;
+     color: #ffc60b;
+     text-shadow: 2px 2px 2px #000;
+     letter-spacing: 2px;
+}
+
+body{
+  background-image: url(./back.jpg);
+  background-repeat: no-repeat;
+   background-attachment: fixed;
+  background-size: cover;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 60px;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center
+  margin:0px;
+  padding: 0px;
+}

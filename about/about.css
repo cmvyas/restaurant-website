@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bangers&family=Mukta&family=Noto+Sans+KR&display=swap');
+
+
+body{
+
+	
+	background-color: #000;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.d-block-w-100{
+    
+	height: 500px;
+	width: 1000px;
+	margin-left: 130px;
+	margin-right: 100px;
+	margin-top: 60px;
+
+}
+h2{
+	display: inline-block;
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: 2px 2px #120136;
+}
+
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  
+}
+li {
+  display: inline;
+}
+li {
+  float: left;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #333;
+
+  
+ 
+  
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding: 14px 30px;
+  
+}
+
+
+li a:hover {
+  background-color: #111;
+}
+
+
+.quote{  color:#e1f4f3;
+	text-align: center;
+	margin-left: 400px;
+	margin-right: 400px;
+}
+.footer {
+  position: initial;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #000;
+  color: white;
+  text-align: center
+  margin:0px;
+  padding: 0px;
+}
